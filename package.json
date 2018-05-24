@@ -1,0 +1,16 @@
+{
+    "name": "netease-levelup",
+    "version": "1.0.0",
+    "description": "Increase your music number that listened in Netease Music, up to 300 songs per day.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tsuboka Kumiko",
+    "license": "ISC",
+    "dependencies": {
+        "crypto-js": "^3.1.9-1",
+        "superagent": "^3.8.3",
+        "superagent-proxy": "^1.0.3"
+    }
+}
